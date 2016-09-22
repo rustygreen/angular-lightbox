@@ -1,0 +1,19 @@
+{
+  "name": "angular-lightbox",
+  "version": "1.0.0",
+  "description": "Extremely light-weight, simple image lightbox and image viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustygreen/angular-lightbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rustygreen/angular-lightbox/issues"
+  },
+  "homepage": "https://github.com/rustygreen/angular-lightbox#readme"
+}

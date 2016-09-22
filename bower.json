@@ -1,0 +1,24 @@
+{
+  "name": "angular-lightbox",
+  "homepage": "https://github.com/rustygreen/angular-lightbox",
+  "authors": [
+    "Rusty Green <rustymgreen@gmail.com>"
+  ],
+  "description": "Extremely light-weight, simple image lightbox and image viewer",
+  "main": ["src/angular-lightbox.js", "styles/angular-lightbox.css"],
+  "keywords": [
+    "angular",
+    "lightbox",
+    "image",
+    "viewer",
+    "enlarge"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
