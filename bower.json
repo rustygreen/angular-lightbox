@@ -1,5 +1,6 @@
 {
   "name": "angular-lightbox",
+  "version": "1.0.0",
   "homepage": "https://github.com/rustygreen/angular-lightbox",
   "authors": [
     "Rusty Green <rustymgreen@gmail.com>"
