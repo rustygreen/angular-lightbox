@@ -34,7 +34,7 @@ __Turn image into lightbox on click:__
 ```
 
 __Cusstomization:__
-```javascriipt
+```javascript
 angular.module('yourApp', ['angular-lightbox'])
   .config(function(angularLightboxConfig) {
     angular.extend(angularLightboxConfig, {
